@@ -1,0 +1,6 @@
+{
+    "Resourses":{
+        "Ec2Instance": "AWS::EC2:INSTANCE"
+         
+    }
+}
